@@ -2,7 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=#0E76A8)](https://www.linkedin.com/in/luiseduardojulio/)
 
+<!--
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisEduJulio&show_icons=true&theme=dracula&count_private=true)
+-->
 
 ## Tecnologias que eu uso no meu dia
 

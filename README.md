@@ -4,7 +4,10 @@
 Olá, me chamo Luis Eduardo,
 Analista de Sistemas .NET | Desenvolvimento de Software | Programador de Software
 
-Sou um Analista de Sistemas .NET com 5 anos de experiência, apaixonado por desenvolvimento de software e soluções tecnológicas inovadoras. Minha carreira tem sido centrada em desenvolver sistemas eficientes e escaláveis, focados em atender as necessidades dos negócios e dos clientes.
+Sou um Analista de Sistemas .NET com 5 anos de experiência,
+apaixonado por desenvolvimento de software e soluções tecnológicas inovadoras.
+Minha carreira tem sido centrada em desenvolver sistemas eficientes e escaláveis,
+focados em atender as necessidades dos negócios e dos clientes.
 ```
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0E76A8?style=for-the-badge&logo=linkedin&logoColor=#0E76A8)](https://www.linkedin.com/in/luiseduardojulio/)
